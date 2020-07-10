@@ -88,7 +88,6 @@ export XAUTHORITY="$XDG_RUNTIME_DIR/Xauthority"
 export XINITRC="$XDG_CONFIG_HOME/X11/xinitrc"
 export XSERVERRC="$XDG_CONFIG_HOME/X11/xserverrc"
 export _Z_DATA="$XDG_DATA_HOME/z"
-export MONO_USER_CONFIG="$XGD_CONFIG_HOME/mono"
 
 export ANDROID_SDK_HOME="$XDG_DATA_HOME/android/sdk"
 export ANDROID_AVD_HOME="$XDG_DATA_HOME/android/avd"
